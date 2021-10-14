@@ -1,0 +1,66 @@
+body {
+  background-image: radial-gradient(
+    circle,
+    #fca497,
+    #f8a39f,
+    #f3a4a7,
+    #eea4ad,
+    #e7a5b3,
+    #e0a6b9,
+    #d9a7be,
+    #d1a8c2,
+    #c7aac6,
+    #bdacc8,
+    #b4adc7,
+    #acaec5
+  );
+}
+.card-group {
+  opacity: 0.6;
+}
+.header-sun {
+  font-size: 55px;
+  color: rgba(231, 14, 6, 0.952);
+}
+.cloudy-icon {
+  font-size: 35px;
+  color: rgba(29, 29, 34, 0.75);
+}
+.partly-sunny-icon {
+  font-size: 35px;
+  color: rgb(194, 110, 0);
+}
+.shower-icon {
+  font-size: 35px;
+  color: rgba(14, 4, 107, 0.712);
+}
+.sunny-icon {
+  font-size: 35px;
+  color: rgba(231, 14, 6, 0.952);
+}
+.current-city {
+  text-align: center;
+}
+.search-bar {
+  text-align: center;
+  margin-top: 15px;
+}
+#search-text-input {
+  opacity: 0.5;
+}
+.next-five {
+  text-align: center;
+  color: rgba(0, 24, 51, 0.95);
+  font-weight: 600;
+}
+.convert-units {
+  font-size: 20px;
+  font-weight: 600;
+  color: #235f55;
+}
+.heading-temp {
+  font-size: 50px;
+}
+#today-description {
+  text-transform: capitalize;
+}
